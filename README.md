@@ -17,3 +17,7 @@ webpackChunkdiscord_app.push([[[Math.random()]],{},q=>Object.values(q.c).find(e=
 ### Warining
 **THIS IS AGAINST DISCORDS TOS**  
 Yet I believe the chance of getting banned for this is very low..
+
+
+
+Credits goes to [this gist](https://gist.github.com/oSumAtrIX/8c0540c80ca2b91efa18d137e239570f) aswell, its the reason I wrote this.
