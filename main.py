@@ -16,5 +16,4 @@ payload = { # setting these is useless they will be set automatically
 }
 
 r = requests.post(url=link, headers=request_header, json=payload)
-print(r.text)
 print('discord.gg/' + json.loads(r.text)['code'])
