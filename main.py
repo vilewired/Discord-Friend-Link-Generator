@@ -15,5 +15,5 @@ payload = { # setting these is useless they will be set automatically
 "temporary":False
 }
 
-r = requests.post(url=link, headers=request_header, json=payload)
-print('discord.gg/' + json.loads(r.text)['code'])
+code = requests.post(url=link, headers=request_header, json=payload).json()['code']
+print('discord.gg/' + code)
