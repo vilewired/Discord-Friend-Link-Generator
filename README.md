@@ -1,3 +1,9 @@
+# OUTDATED
+
+They got rid of both the endpoint and the js command to create this invite, I will not search for alternatives.
+
+# OUTDATED
+
 # Discord-Friend-Link-Generator
 This is a Friend Link Generator written in python for discord. It uses discord's latest api (currently v9) to get a friend link code.  
 These are very similar to the server invite links and look like this when you send them in Discord: 
